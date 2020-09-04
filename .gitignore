@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Project exclude paths
+/androidApp/build/
+/androidApp/build/intermediates/javac/debug/classes/
+/shared/build/
+/shared/build/intermediates/javac/debug/classes/
